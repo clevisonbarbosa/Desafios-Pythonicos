@@ -1,2 +1,4 @@
-# Desafios-Pythonicos
-Desafios de python.
+# Desafios Pythonicos
+
+
+## Challenges created within the Welcome to django community by Henrique Bastos.
